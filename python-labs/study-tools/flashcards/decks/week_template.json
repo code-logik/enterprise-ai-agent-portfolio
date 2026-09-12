@@ -1,0 +1,11 @@
+{
+  "week": 3,
+  "title": "Replace with the Week 3 theme",
+  "cards": [
+    {
+      "category": "Example Category",
+      "question": "Replace this with a Week 3 question.",
+      "answer": "Replace this with the answer."
+    }
+  ]
+}

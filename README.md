@@ -24,7 +24,12 @@ Completed:
 
 - Introduction to AI concepts
 - Introduction to generative AI and agents
+- Introduction to natural language processing concepts
+- Introduction to AI speech concepts
 
 ## Project Status
 
-Week 1 — Project definition and development environment setup.
+**Week 2 — Language and Speech AI**
+
+Current work includes NLP workload identification, AI capability mapping,
+and AI-901 objective tracking.

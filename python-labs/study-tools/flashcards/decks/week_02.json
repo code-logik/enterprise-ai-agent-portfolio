@@ -1,0 +1,56 @@
+{
+  "week": 2,
+  "title": "Language, Speech, Generative AI, Retrieval, and Agents",
+  "cards": [
+    {
+      "category": "NLP",
+      "question": "What is natural language processing (NLP)?",
+      "answer": "AI techniques used to analyze and work with human language."
+    },
+    {
+      "category": "NLP",
+      "question": "Name two common NLP tasks.",
+      "answer": "Entity detection and sentiment analysis."
+    },
+    {
+      "category": "Speech",
+      "question": "What does speech recognition do?",
+      "answer": "Converts spoken language into text."
+    },
+    {
+      "category": "Speech",
+      "question": "What does speech synthesis do?",
+      "answer": "Converts text into spoken language."
+    },
+    {
+      "category": "Generative AI",
+      "question": "What does generative AI do?",
+      "answer": "Creates new output such as answers, explanations, summaries, or other content."
+    },
+    {
+      "category": "Retrieval",
+      "question": "What is retrieval in an AI system?",
+      "answer": "Retrieval finds relevant information. It does not itself generate the final response."
+    },
+    {
+      "category": "Agents",
+      "question": "What makes an AI agent different from basic generative AI?",
+      "answer": "An agent works toward a goal and can reason about, select, and use tools."
+    },
+    {
+      "category": "Agents",
+      "question": "What are the two key ideas behind an AI agent?",
+      "answer": "Reasoning and action."
+    },
+    {
+      "category": "NLP vs. LLM",
+      "question": "When might traditional NLP be preferable to an LLM?",
+      "answer": "For predictable, structured analysis where consistent outputs are important."
+    },
+    {
+      "category": "NLP vs. LLM",
+      "question": "When might an LLM be preferable to traditional NLP?",
+      "answer": "When context, generation, flexible instructions, or natural-language reasoning are important."
+    }
+  ]
+}
