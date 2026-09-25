@@ -1,0 +1,56 @@
+{
+  "week": 1,
+  "title": "Generative AI, Language Models, and Agent Fundamentals",
+  "cards": [
+    {
+      "category": "Generative AI",
+      "question": "What does generative AI do in response to a prompt?",
+      "answer": "Creates original content in response to the prompt."
+    },
+    {
+      "category": "AI Agents",
+      "question": "What is an AI agent?",
+      "answer": "An AI application that can perform tasks on behalf of a user."
+    },
+    {
+      "category": "Speech",
+      "question": "An AI application reads an email aloud. Which speech capability is it using?",
+      "answer": "Speech synthesis."
+    },
+    {
+      "category": "Language Models",
+      "question": "What is a large language model (LLM) designed to generate?",
+      "answer": "Human-like text."
+    },
+    {
+      "category": "Tokenization",
+      "question": "What is the purpose of tokenization?",
+      "answer": "To break text into smaller units called tokens."
+    },
+    {
+      "category": "Embeddings",
+      "question": "What are token embeddings?",
+      "answer": "Vector-based representations of tokens that capture their semantic meaning."
+    },
+    {
+      "category": "Transformers",
+      "question": "What does an attention layer examine in a transformer model?",
+      "answer": "The relationships between each token and the tokens around it."
+    },
+    {
+      "category": "Prompts",
+      "question": "What is the purpose of a system prompt?",
+      "answer": "To provide context and instructions to the AI model."
+    },
+    {
+      "category": "Tokenization vs. Embeddings",
+      "question": "How do tokenization and embeddings differ?",
+      "answer": "Tokenization splits text into units; embeddings represent tokens as semantic vectors."
+    },
+    {
+      "category": "Agents vs. Language Models",
+      "question": "How does an AI agent differ from a large language model (LLM)?",
+      "answer": "An agent performs tasks for a user; an LLM is designed to generate human-like text."
+    }
+  ]
+}

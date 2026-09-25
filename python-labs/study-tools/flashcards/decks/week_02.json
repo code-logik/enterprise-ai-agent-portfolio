@@ -51,6 +51,36 @@
       "category": "NLP vs. LLM",
       "question": "When might an LLM be preferable to traditional NLP?",
       "answer": "When context, generation, flexible instructions, or natural-language reasoning are important."
+    },
+    {
+      "category": "NLP",
+      "question": "What is the purpose of tokenization in natural language processing?",
+      "answer": "To break text into smaller units for analysis."
+    },
+    {
+      "category": "NLP",
+      "question": "What does TF-IDF help determine within a collection of documents?",
+      "answer": "The importance of a word in a specific document relative to the larger document collection."
+    },
+    {
+      "category": "NLP",
+      "question": "What do embedding vectors capture in natural language processing?",
+      "answer": "Semantic relationships between tokens across multiple dimensions."
+    },
+    {
+      "category": "Speech",
+      "question": "What happens during the pre-processing stage of speech recognition?",
+      "answer": "Feature vectors are extracted from the audio waveform for modeling."
+    },
+    {
+      "category": "Speech",
+      "question": "What are phonemes?",
+      "answer": "The smallest units of sound in speech."
+    },
+    {
+      "category": "Speech",
+      "question": "Why is prosody important in speech synthesis?",
+      "answer": "It helps ensure natural pronunciation and speech cadence."
     }
   ]
 }
